@@ -12,6 +12,6 @@
    <GlobalVariableEntity>
       <description>Search Iphone</description>
       <initValue>'Iphone 11pro'</initValue>
-      <name>Iphone</name>
+      <name>Mobile</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -23,10 +23,12 @@ WebUI.maximizeWindow()
 
 WebUI.getWindowTitle()
 
-WebUI.setText(findTestObject('HomePage/SearchTextBox'), GlobalVariable.Iphone)
+print(WebUI.getWindowTitle())
+
+WebUI.setText(findTestObject('HomePage/SearchTextBox'), GlobalVariable.Mobile)
 
 WebUI.click(findTestObject('HomePage/Search Button'))
 
-WebUI.click(findTestObject('SelectMobile/Select Iphone'))
+WebUI.click(findTestObject('SelectMobile/Select Phone'))
 
 WebUI.closeBrowser()

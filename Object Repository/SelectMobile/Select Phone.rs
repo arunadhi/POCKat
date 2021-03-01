@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Select Iphone</name>
+   <name>Select Phone</name>
    <tag></tag>
    <elementGuidId>1d37e673-e429-4bc2-89c4-ef7df07ae2d6</elementGuidId>
    <selectorCollection>
