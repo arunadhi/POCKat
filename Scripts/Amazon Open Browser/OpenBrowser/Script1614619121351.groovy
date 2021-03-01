@@ -21,6 +21,8 @@ WebUI.openBrowser(GlobalVariable.browser)
 
 WebUI.maximizeWindow()
 
+WebUI.getWindowTitle()
+
 WebUI.setText(findTestObject('HomePage/SearchTextBox'), GlobalVariable.Iphone)
 
 WebUI.click(findTestObject('HomePage/Search Button'))
