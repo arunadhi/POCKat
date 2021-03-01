@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the brower and enter the mobile name as iphone 11 pro in search field</description>
+   <name>OpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>732a3f03-ec9b-4f7e-9532-2f0a9b2b1169</testCaseGuid>
+</TestCaseEntity>
